@@ -9,7 +9,7 @@ variable "aws_region" {
 variable "my_s3_bucket" {
   description = "S3 Bucket name that we pass to S3 Custom Module"
   type = string
-  default = "mybucket-1051"
+  default = "daniel-10-10-2021"
 }
 
 ## Create Variable for S3 Bucket Tags
